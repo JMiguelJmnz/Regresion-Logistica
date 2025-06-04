@@ -1,9 +1,9 @@
 # Regresion Logistica
 
-Aplicando la regresión logística para el mismo caso de los medicamentos pero con un enfoque diferente en esta ocasión, buscando determinar si el medicamento recomendado seria nacional o extrangero, comenzamos con el ingreso de los datos y su organización.
+Aplicando la regresión logística para el mismo caso de los medicamentos pero con un enfoque diferente en esta ocasión, buscando determinar si el medicamento recomendado seria nacional o extranjero, comenzamos con el ingreso de los datos y su organización.
 <br>![image](https://github.com/user-attachments/assets/76d9a99f-ae6f-4a9b-98a5-4a56ffe8b7be)
 
-Nuevamente realizamos el preprocesamiento y esta vez re asignamos los valores del medicamento para que se ajuste al resultado deseado, 0 para nacional y 1 para extrangero.
+Nuevamente realizamos el preprocesamiento y esta vez re asignamos los valores del medicamento para que se ajuste al resultado deseado, 0 para nacional y 1 para extranjero.
 <br>![image](https://github.com/user-attachments/assets/31c9d2a3-8b05-41d7-b5e5-7233a3c5df76)
 
 Realizamos la separación de grupos de prueba y entrenamiento
